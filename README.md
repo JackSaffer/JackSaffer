@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JackSaffer
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning Programming
-- 💞️ I’m looking to collaborate on BCR
+- 💞️ I’m looking to collaborate with BCR
 - 📫 Reach me through email: jsaffer000@gmail.com
 
 <!---
